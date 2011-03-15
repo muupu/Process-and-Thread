@@ -1,0 +1,10 @@
+C:\Documents and Settings\张巧燕.0172EF7CAE8B4E1\Local Settings\Application Data\Temporary Projects\ProcessMonitor\bin\Debug\ProcessMonitor.exe
+C:\Documents and Settings\张巧燕.0172EF7CAE8B4E1\Local Settings\Application Data\Temporary Projects\ProcessMonitor\bin\Debug\ProcessMonitor.pdb
+C:\Documents and Settings\张巧燕.0172EF7CAE8B4E1\Local Settings\Application Data\Temporary Projects\ProcessMonitor\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\张巧燕.0172EF7CAE8B4E1\Local Settings\Application Data\Temporary Projects\ProcessMonitor\obj\Debug\ProcessMonitor.Form1.resources
+C:\Documents and Settings\张巧燕.0172EF7CAE8B4E1\Local Settings\Application Data\Temporary Projects\ProcessMonitor\obj\Debug\ProcessMonitor.Properties.Resources.resources
+C:\Documents and Settings\张巧燕.0172EF7CAE8B4E1\Local Settings\Application Data\Temporary Projects\ProcessMonitor\obj\Debug\ProcessMonitor.csproj.GenerateResource.Cache
+C:\Documents and Settings\张巧燕.0172EF7CAE8B4E1\Local Settings\Application Data\Temporary Projects\ProcessMonitor\obj\Debug\ProcessMonitor.exe
+C:\Documents and Settings\张巧燕.0172EF7CAE8B4E1\Local Settings\Application Data\Temporary Projects\ProcessMonitor\obj\Debug\ProcessMonitor.pdb
+F:\大四上\ProcessMonitor\ProcessMonitor\obj\Debug\ProcessMonitor.exe
+F:\大四上\ProcessMonitor\ProcessMonitor\obj\Debug\ProcessMonitor.pdb
